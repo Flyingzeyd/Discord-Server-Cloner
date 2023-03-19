@@ -32,9 +32,7 @@ Open a terminal in the folder
 
 <Run> python main.py
  ```
-After that enter your token.
-
-You need to wait until its finished.
+After that enter your token, you need to wait until its finished.
 
 
 
